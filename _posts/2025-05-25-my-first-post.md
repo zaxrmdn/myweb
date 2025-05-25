@@ -1,5 +1,5 @@
 ---
-title: "Post Pertamaku"
+title: "My First Post"
 date: 2025-05-25
 excerpt_separator: "<!--more-->"
 categories:
