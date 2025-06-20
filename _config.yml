@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Rama"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/avatar.jpg"
   bio    : "I automate chaos, monitor silence, and configure the invisible. A SysAdmin’s logbook of tools, tweaks, and tech stories."
   links:
     - label: "Website"
