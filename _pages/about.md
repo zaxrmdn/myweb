@@ -8,10 +8,10 @@ With 3 years of experience working with Linux servers, virtualization, and monit
 
 ### 🔧 What I work with:
 - Operating Systems: Linux (Debian, Ubuntu, CentOS), Windows Server
-- Automation Tools: Bash, Ansible, Python
+- Automation Tools: Bash, Ansible
 - Monitoring: Zabbix, Prometheus, Grafana 
 - Virtualization: Proxmox, VMware, Docker
-- Cloud: AWS (EC2, S3, Route 53), DigitalOcean
+- Cloud: AWS, Microsoft Azure
 - Networking: DNS, NGINX, Firewalls, VPN
 
 ### 🗂️ Why I built this site:
